@@ -1,0 +1,22 @@
+{
+  "habits": [
+    {
+      "habit_name": "Play games",
+      "periodicity": "daily",
+      "ongoing": true,
+      "streak": 5
+    },
+    {
+      "habit_name": "Workout",
+      "periodicity": "weekly",
+      "ongoing": false,
+      "streak": 1
+    },
+    {
+      "habit_name": "Read a book",
+      "periodicity": "monthly",
+      "ongoing": true,
+      "streak": 2
+    }
+  ]
+}
